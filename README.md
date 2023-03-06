@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroRyper&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroRyper&hide_progress=true)](https://github.com/ZeroRyper/github-readme-stats)
-
+<a href="https://github.com/ZeroRyper/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyper&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/ZeroRyper/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyper&repo=convoychat" />
+</a>
 
