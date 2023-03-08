@@ -1,4 +1,4 @@
-<section align="center" class="first"><a href="https://github.com/ZeroRyper"><img src="./assets/zyro-image.png" alt="My Name Is Ryper but you can call me ZeroRyper"/></section>
+<section align="center" class="first"><a href="https://github.com/ZeroRyper"><img height="200px" src="./assets/zyro-image.png" alt="My Name Is Ryper but you can call me ZeroRyper"/></section>
 
 <div align="center"> 
   <h3> Github Stats</h3>
