@@ -2,7 +2,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/erick-irvin-padilla-mercado-786463194/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/zyro-image.png"/></a></p>
 <hr/>
 <div align="center">
-<p>Soy un apasionado de los videojuegos y la tecnología en general. Como graduado en Ingeniería en Sistemas, tengo una amplia comprensión de la programación y el hardware. Busco una oportunidad laboral en el área de desarrollo front-end o de videojuegos para poner en práctica mis habilidades y mi pasión en un entorno profesional. Busco un trabajo que me permita crecer profesionalmente y me brinde satisfacción personal.</p>
+<p>Soy un apasionado de los videojuegos y la tecnología en general. Como graduado en Ingeniería en Sistemas, tengo una amplia comprensión de la programación y el hardware. Busco una oportunidad laboral en el área de desarrollo front-end o de videojuegos para poner en práctica mis habilidades y mi pasión en un entorno profesional.</p>
   </div>
 <hr/>
 <div align="center"> 
