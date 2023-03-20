@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroRyper&layout=compact&theme=tokyonight"/> 
 </div>
 <hr/>
+<p>Busco una oportunidad laboral en el área de desarrollo front-end o desarrollo de videojuegos, ya que soy un apasionado de los videojuegos y la tecnología en general. Como graduado en Ingeniería en Sistemas, adquirí una amplia comprensión de la programación y el hardware, y estoy emocionado de poner mis habilidades en práctica en un entorno profesional. Busco un trabajo que no solo me permita crecer profesionalmente, sino que también me apasione y me brinde satisfacción personal.</p>
+<hr/>
 <div> 
  <h3>SKILLS</h3>
 <code><img height="50" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>   
