@@ -12,7 +12,7 @@
 <div> 
  <h3>SKILLS</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,github,git,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,github,git" />
   </a>
 </div>
 
