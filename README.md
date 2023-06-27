@@ -1,9 +1,8 @@
-
-<p align="center"><a href="https://www.linkedin.com/in/erick-irvin-padilla-mercado-786463194/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/zyro-image.png"/></a></p>
-<hr/>
 <div align="center">
-<p>I am looking for a job opportunity in the front-end development or video game development field, as I am passionate about video games and technology in general. As a graduate in Systems Engineering, I acquired a broad understanding of programming and hardware, and I am excited to put my skills into practice in a professional environment. I am seeking a job that not only allows me to grow professionally but also engages and provides personal satisfaction.</p>
+<p>My name is Erick and I'm a junior front-end developer with experience using React. I currently reside in Mexico and have a degree in Systems Engineering. I am passionate about web application development and specialize in creating engaging and interactive user interfaces. My goal is to continue learning and growing professionally in the field of programming, always seeking to improve my skills and contribute to the success of the projects in which I participate. I am excited to be part of the technology industry and take advantage of the opportunities that present themselves to develop innovative solutions.</p>
   </div>
+<hr/>
+<p align="center"><a href="https://www.linkedin.com/in/erick-irvin-padilla-mercado-786463194/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/zyro-image.png"/></a></p>
 <hr/>
 <div align="center"> 
   <h3> Github Stats</h3>
