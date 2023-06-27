@@ -12,6 +12,6 @@
 </div>
 <div> 
  <h3>SKILLS</h3>
-<img src="[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)" />
+<img src="[https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev" />
 </div>
 
