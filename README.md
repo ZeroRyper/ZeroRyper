@@ -12,6 +12,8 @@
 </div>
 <div> 
  <h3>SKILLS</h3>
-<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </div>
 
