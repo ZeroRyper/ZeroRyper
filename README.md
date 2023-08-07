@@ -7,7 +7,7 @@
 <div align="center"> 
   <h3> Github Stats</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeroRyper&layout=compact&theme=neon"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeroRyper)](https://github.com/ZeroRyper/github-readme-stats"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/username=ZeroRyper)](https://github.com/ZeroRyper/github-readme-stats"/> 
 </div>
 <div> 
  <h3>SKILLS</h3>
