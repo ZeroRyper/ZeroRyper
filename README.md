@@ -27,3 +27,4 @@ My name is Erick and I'm a junior front-end developer with experience using Reac
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+[![](https://visitcount.itsvg.in/api?id=ZeroRyper&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
